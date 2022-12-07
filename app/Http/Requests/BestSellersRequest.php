@@ -14,7 +14,7 @@ class BestSellersRequest extends FormRequest
             'isbn' => 'array', // array of 10 or 13 digit strings
             'isbn.*' => ['string', new IsbnLength],
             'title' => 'string',
-            'offset' => ['integer', 'multiple_of:20'], // multiple of 20
+            'offset' => ['integer', 'multiple_of:20', 'gte:0'], // multiple of 20
         ];
     }
 }
