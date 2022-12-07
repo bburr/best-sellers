@@ -2,7 +2,7 @@
 
 namespace Tests\Feature;
 
-use Illuminate\Http\Client\Request;
+use GuzzleHttp\Promise\PromiseInterface;
 use Illuminate\Support\Facades\Http;
 use Tests\TestCase;
 
@@ -12,11 +12,35 @@ class ApiTest extends TestCase
     const NYT_API_KEY = 'asdf123';
     const NYT_ENDPOINT_URL = 'https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json';
 
+    const AUTHOR_FILTER = 'Sanderson';
+    const TITLE_FILTER = 'Kings';
+    const ISBN_FILTER_1 = '0765399830';
+    const ISBN_FILTER_2 = '9780765399830';
+    const OFFSET = 20;
+
     protected function setUp(): void
     {
         parent::setUp();
 
-        Http::fake();
+        $url = self::NYT_ENDPOINT_URL . '?api-key=' . self::NYT_API_KEY;
+
+        Http::fake([
+            $url => $this->response('no-arguments'),
+            $url . '&author=' . self::AUTHOR_FILTER => $this->response('author-filter'),
+            $url . '&author=' . self::AUTHOR_FILTER . '&offset=' . self::OFFSET =>
+                $this->response('author-offset'),
+            $url . '&author=' . self::AUTHOR_FILTER . '&title=' . self::TITLE_FILTER =>
+                $this->response('author-title-filter'),
+            $url . '&isbn=' . self::ISBN_FILTER_1 => $this->response('isbn-filter'),
+            $url . '&isbn=' . self::ISBN_FILTER_1 . '%3B' . self::ISBN_FILTER_2 =>
+                $this->response('actual-multi-isbn-response'),
+            $url . '&offset=' . self::OFFSET => $this->response('offset'),
+            $url . '&title=' . self::TITLE_FILTER => $this->response('title-filter'),
+            $url . '&title=' . self::TITLE_FILTER . '&offset=' . self::OFFSET =>
+                $this->response('title-offset'),
+        ]);
+
+        Http::preventStrayRequests();
 
         config([
             'env.nyt.apiKey' => self::NYT_API_KEY,
@@ -28,51 +52,50 @@ class ApiTest extends TestCase
     {
         $response = $this->getJson(self::ENDPOINT);
 
-        $response->assertStatus(200);
-
-        Http::assertSent(function (Request $request) {
-            return $request->url() === self::NYT_ENDPOINT_URL . '?api-key=' . self::NYT_API_KEY;
-        });
+        $response
+            ->assertStatus(200)
+            ->assertJsonPath('num_results', 34933)
+            ->assertJsonCount(20, 'results')
+            ->assertJsonPath('results.14.title', "'TIS THE SEASON");
     }
 
     public function testFilterAuthor(): void
     {
-        $authorFilter = 'Sanderson';
+        $response = $this->getJson(self::ENDPOINT . '?author=' . self::AUTHOR_FILTER);
 
-        $response = $this->getJson(self::ENDPOINT . '?author=' . $authorFilter);
+        $response->assertStatus(200)
+            ->assertJsonPath('num_results', 25)
+            ->assertJsonCount(20, 'results')
+            ->assertJsonPath('results.0.title', 'A MEMORY OF LIGHT');
+    }
 
-        $response->assertStatus(200);
+    public function testFilterAuthorOffset(): void
+    {
+        $response = $this->getJson(self::ENDPOINT . '?author=' . self::AUTHOR_FILTER . '&offset=' . self::OFFSET);
 
-        Http::assertSent(function (Request $request) use ($authorFilter) {
-            return $request->url() === self::NYT_ENDPOINT_URL . '?api-key=' . self::NYT_API_KEY . '&author=' . $authorFilter;
-        });
+        $response->assertStatus(200)
+            ->assertJsonPath('num_results', 25)
+            ->assertJsonCount(5, 'results')
+            ->assertJsonPath('results.0.title', 'THE WAY OF KINGS');
     }
 
     public function testFilterIsbnSingle(): void
     {
-        $isbn = '1231231231';
+        $response = $this->getJson(self::ENDPOINT . '?isbn[]=' . self::ISBN_FILTER_1);
 
-        $response = $this->getJson(self::ENDPOINT . '?isbn[]=' . $isbn);
-
-        $response->assertStatus(200);
-
-        Http::assertSent(function (Request $request) use ($isbn) {
-            return $request->url() === self::NYT_ENDPOINT_URL . '?api-key=' . self::NYT_API_KEY . '&isbn=' . $isbn;
-        });
+        $response->assertStatus(200)
+            ->assertJsonPath('num_results', 1)
+            ->assertJsonCount(1, 'results')
+            ->assertJsonPath('results.0.title', 'OATHBRINGER');
     }
 
     public function testFilterIsbnMultiple(): void
     {
-        $isbn1 = '1231231231';
-        $isbn2 = '1231231231231';
+        $response = $this->getJson(self::ENDPOINT . '?isbn[]=' . self::ISBN_FILTER_1 . '&isbn[]=' . self::ISBN_FILTER_2);
 
-        $response = $this->getJson(self::ENDPOINT . '?isbn[]=' . $isbn1 . '&isbn[]=' . $isbn2);
-
-        $response->assertStatus(200);
-
-        Http::assertSent(function (Request $request) use ($isbn1, $isbn2) {
-            return urldecode($request->url()) === self::NYT_ENDPOINT_URL . '?api-key=' . self::NYT_API_KEY . '&isbn=' . $isbn1 . ';' . $isbn2;
-        });
+        $response->assertStatus(200)
+            ->assertJsonPath('num_results', 0)
+            ->assertJsonCount(0, 'results');
     }
 
     public function testFilterInvalidIsbnLength(): void
@@ -84,15 +107,32 @@ class ApiTest extends TestCase
 
     public function testFilterTitle(): void
     {
-        $titleFilter = 'Kings';
+        $response = $this->getJson(self::ENDPOINT . '?title=' . self::TITLE_FILTER);
 
-        $response = $this->getJson(self::ENDPOINT . '?title=' . $titleFilter);
+        $response->assertStatus(200)
+            ->assertJsonPath('num_results', 24)
+            ->assertJsonCount(20, 'results')
+            ->assertJsonPath('results.0.title', 'A CLASH OF KINGS');
+    }
 
-        $response->assertStatus(200);
+    public function testFilterTitleOffset(): void
+    {
+        $response = $this->getJson(self::ENDPOINT . '?title=' . self::TITLE_FILTER . '&offset=' . self::OFFSET);
 
-        Http::assertSent(function (Request $request) use ($titleFilter) {
-            return $request->url() === self::NYT_ENDPOINT_URL . '?api-key=' . self::NYT_API_KEY . '&title=' . $titleFilter;
-        });
+        $response->assertStatus(200)
+            ->assertJsonPath('num_results', 24)
+            ->assertJsonCount(4, 'results')
+            ->assertJsonPath('results.3.title', 'THE WAY OF KINGS');
+    }
+
+    public function testFilterAuthorTitle(): void
+    {
+        $response = $this->getJson(self::ENDPOINT . '?author=' . self::AUTHOR_FILTER . '&title=' . self::TITLE_FILTER);
+
+        $response->assertStatus(200)
+            ->assertJsonPath('num_results', 1)
+            ->assertJsonCount(1, 'results')
+            ->assertJsonPath('results.0.title', 'THE WAY OF KINGS');
     }
 
     public function testOffset(): void
@@ -101,11 +141,11 @@ class ApiTest extends TestCase
 
         $response = $this->getJson(self::ENDPOINT . '?offset=' . $offset);
 
-        $response->assertStatus(200);
-
-        Http::assertSent(function (Request $request) use ($offset) {
-            return $request->url() === self::NYT_ENDPOINT_URL . '?api-key=' . self::NYT_API_KEY . '&offset=' . $offset;
-        });
+        $response
+            ->assertStatus(200)
+            ->assertJsonPath('num_results', 34933)
+            ->assertJsonCount(20, 'results')
+            ->assertJsonPath('results.0.title', '1,000 PLACES TO SEE BEFORE YOU DIE');
     }
 
     public function testInvalidOffsetValueNotMultiple(): void
@@ -120,5 +160,12 @@ class ApiTest extends TestCase
         $response = $this->getJson(self::ENDPOINT . '?offset=-20');
 
         $response->assertStatus(422);
+    }
+
+    private function response(string $filename): PromiseInterface
+    {
+        return Http::response(
+            json_decode(file_get_contents(base_path('tests/responses/' . $filename . '.json')), true)
+        );
     }
 }
