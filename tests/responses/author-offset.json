@@ -1,0 +1,406 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 25,
+    "results": [
+        {
+            "title": "THE WAY OF KINGS",
+            "description": "In the first book of a new series, the Stormlight Archive, war ravages the world of Roshar.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor",
+            "isbns": [
+                {
+                    "isbn10": "0765326353",
+                    "isbn13": "9780765326355"
+                },
+                {
+                    "isbn10": "0765365278",
+                    "isbn13": "9780765365279"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "TOWERS OF MIDNIGHT",
+            "description": "The sun has begun to set upon the Third Age, and Perrin Aybara is hunted by specters from his past: Whitecloaks, a slayer of wolves, and the responsibilities of leadership; Book 13 of the Wheel of Time fantasy series.",
+            "contributor": "by Robert Jordan and Brandon Sanderson",
+            "author": "Robert Jordan and Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor",
+            "isbns": [
+                {
+                    "isbn10": "0765325942",
+                    "isbn13": "9780765325945"
+                },
+                {
+                    "isbn10": "1429960639",
+                    "isbn13": "9781429960632"
+                },
+                {
+                    "isbn10": "0765364875",
+                    "isbn13": "9780765364876"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0765364875",
+                    "primary_isbn13": "9780765364876",
+                    "rank": 35,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2011-12-04",
+                    "bestsellers_date": "2011-11-19",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765364875",
+                    "primary_isbn13": "9780765364876",
+                    "rank": 34,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2011-11-27",
+                    "bestsellers_date": "2011-11-12",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765364875",
+                    "primary_isbn13": "9780765364876",
+                    "rank": 20,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2011-11-06",
+                    "bestsellers_date": "2011-10-22",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "WARBREAKER",
+            "description": "",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "WHITE SAND, VOL. 1",
+            "description": "On a fantastical world, certain individuals can control and manipulate the properties of sand.",
+            "contributor": "by Brandon Sanderson, Rik Hoskin and Julius Gopez",
+            "author": "Brandon Sanderson, Rik Hoskin and Julius Gopez",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Dynamite Entertainment",
+            "isbns": [
+                {
+                    "isbn10": "1606908855",
+                    "isbn13": "9781606908853"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1606908855",
+                    "primary_isbn13": "9781606908853",
+                    "rank": 8,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2016-07-31",
+                    "bestsellers_date": "2016-07-16",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1606908855",
+                    "primary_isbn13": "9781606908853",
+                    "rank": 7,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2016-07-24",
+                    "bestsellers_date": "2016-07-09",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1606908855",
+                    "primary_isbn13": "9781606908853",
+                    "rank": 2,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2016-07-17",
+                    "bestsellers_date": "2016-07-02",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "WORDS OF RADIANCE",
+            "description": "The second book of the Stormlight Archive fantasy epic, set in the world of Roshar.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor Fantasy",
+            "isbns": [
+                {
+                    "isbn10": "0765326361",
+                    "isbn13": "9780765326362"
+                },
+                {
+                    "isbn10": "0765365286",
+                    "isbn13": "9780765365286"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0765365286",
+                    "primary_isbn13": "9780765365286",
+                    "rank": 18,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2015-03-22",
+                    "bestsellers_date": "2015-03-07",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326361",
+                    "primary_isbn13": "9780765326362",
+                    "rank": 20,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2014-05-11",
+                    "bestsellers_date": "2014-04-26",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326361",
+                    "primary_isbn13": "9780765326362",
+                    "rank": 16,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2014-05-04",
+                    "bestsellers_date": "2014-04-19",
+                    "weeks_on_list": 6,
+                    "rank_last_week": 0,
+                    "asterisk": 1,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326361",
+                    "primary_isbn13": "9780765326362",
+                    "rank": 21,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2014-04-27",
+                    "bestsellers_date": "2014-04-12",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326361",
+                    "primary_isbn13": "9780765326362",
+                    "rank": 14,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2014-04-20",
+                    "bestsellers_date": "2014-04-05",
+                    "weeks_on_list": 5,
+                    "rank_last_week": 10,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326361",
+                    "primary_isbn13": "9780765326362",
+                    "rank": 10,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2014-04-13",
+                    "bestsellers_date": "2014-03-29",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 8,
+                    "asterisk": 1,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326361",
+                    "primary_isbn13": "9780765326362",
+                    "rank": 8,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2014-04-06",
+                    "bestsellers_date": "2014-03-22",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 5,
+                    "asterisk": 1,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781429949620",
+                    "rank": 25,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2014-04-06",
+                    "bestsellers_date": "2014-03-22",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781429949620",
+                    "rank": 11,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2014-03-30",
+                    "bestsellers_date": "2014-03-15",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 1,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326361",
+                    "primary_isbn13": "9780765326362",
+                    "rank": 5,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2014-03-30",
+                    "bestsellers_date": "2014-03-15",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 1,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781429949620",
+                    "rank": 18,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2014-03-30",
+                    "bestsellers_date": "2014-03-15",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781429949620",
+                    "rank": 1,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2014-03-23",
+                    "bestsellers_date": "2014-03-08",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326361",
+                    "primary_isbn13": "9780765326362",
+                    "rank": 1,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2014-03-23",
+                    "bestsellers_date": "2014-03-08",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781429949620",
+                    "rank": 1,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2014-03-23",
+                    "bestsellers_date": "2014-03-08",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}

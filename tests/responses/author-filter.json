@@ -1,0 +1,869 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 25,
+    "results": [
+        {
+            "title": "A MEMORY OF LIGHT",
+            "description": "The 14th and final novel in the Wheel of Time fantasy series.",
+            "contributor": "by Robert Jordan and Brandon Sanderson",
+            "author": "Robert Jordan and Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor Fantasy/Tom Doherty",
+            "isbns": [
+                {
+                    "isbn10": "0765325950",
+                    "isbn13": "9780765325952"
+                },
+                {
+                    "isbn10": "1429997176",
+                    "isbn13": "9781429997171"
+                },
+                {
+                    "isbn10": "0765364883",
+                    "isbn13": "9780765364883"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "ALCATRAZ VERSUS THE EVIL LIBRARIANS",
+            "description": "Alcatraz Smedry battles the Evil Librarians using only his incredible talent for breaking things.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Starscape",
+            "isbns": [
+                {
+                    "isbn10": "1250811066",
+                    "isbn13": "9781250811066"
+                },
+                {
+                    "isbn10": "1250811104",
+                    "isbn13": "9781250811103"
+                },
+                {
+                    "isbn10": "0765378949",
+                    "isbn13": "9780765378941"
+                },
+                {
+                    "isbn10": "0765381419",
+                    "isbn13": "9780765381415"
+                },
+                {
+                    "isbn10": "0765378965",
+                    "isbn13": "9780765378965"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1250811066",
+                    "primary_isbn13": "9781250811066",
+                    "rank": 9,
+                    "list_name": "Series Books",
+                    "display_name": "Children’s Series",
+                    "published_date": "2022-10-09",
+                    "bestsellers_date": "2022-09-24",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "DAWNSHARD",
+            "description": "Set between installments of the Stormlight Archive series, the fate of Roshar and the Cosmere depends upon the uncovering of the secrets of a hidden island city. Read by Kate Reading and Michael Kramer. 7 hours, 5 minutes unabridged.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Recorded Books",
+            "isbns": [
+                {
+                    "isbn10": "125085055X",
+                    "isbn13": "9781250850553"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781705076446",
+                    "rank": 12,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2022-09-18",
+                    "bestsellers_date": "2022-09-03",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "125085055X",
+                    "primary_isbn13": "9781250850553",
+                    "rank": 15,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2022-03-06",
+                    "bestsellers_date": "2022-02-19",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "FIREFIGHT",
+            "description": "A Reckoner enters the dangerous city of Babylon Restored; the sequel to \"Steelheart.\"",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "Ages 12 and up",
+            "publisher": "Random House Publishing",
+            "isbns": [
+                {
+                    "isbn10": "0385743580",
+                    "isbn13": "9780385743587"
+                },
+                {
+                    "isbn10": "0375991220",
+                    "isbn13": "9780375991226"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "HERO OF AGES",
+            "description": "",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "MANNAHATTA",
+            "description": "",
+            "contributor": "by Eric W. Sanderson",
+            "author": "Eric W Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Abrams",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2009/05/24/books/review/Sullivan-t.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "OATHBRINGER",
+            "description": "The third volume of the Stormlight Archive. The War of Reckoning ends and the Voidbringers return.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor",
+            "isbns": [
+                {
+                    "isbn10": "076532637X",
+                    "isbn13": "9780765326379"
+                },
+                {
+                    "isbn10": "0765399830",
+                    "isbn13": "9780765399830"
+                },
+                {
+                    "isbn10": "1250297141",
+                    "isbn13": "9781250297143"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "RECKONERS",
+            "description": "An orphan joins the resistance when the Epics use their superpowers for criminal means.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "isbns": [
+                {
+                    "isbn10": "044981839X",
+                    "isbn13": "9780449818398"
+                },
+                {
+                    "isbn10": "0385743564",
+                    "isbn13": "9780385743563"
+                },
+                {
+                    "isbn10": "0385743572",
+                    "isbn13": "9780385743570"
+                },
+                {
+                    "isbn10": "0449818403",
+                    "isbn13": "9780449818404"
+                },
+                {
+                    "isbn10": "0449818411",
+                    "isbn13": "9780449818411"
+                },
+                {
+                    "isbn10": "0385743602",
+                    "isbn13": "9780385743600"
+                },
+                {
+                    "isbn10": "0385743599",
+                    "isbn13": "9780385743594"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "RHYTHM OF WAR",
+            "description": "The fourth book in the Stormlight Archive series. Read by Kate Reading and Michael Kramer.  57 hours and 26 minutes unabridged.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Macmillan Audio",
+            "isbns": [
+                {
+                    "isbn10": "0765326388",
+                    "isbn13": "9780765326386"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781250759788",
+                    "rank": 4,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2021-01-17",
+                    "bestsellers_date": "2021-01-02",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 2,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326388",
+                    "primary_isbn13": "9780765326386",
+                    "rank": 15,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2020-12-27",
+                    "bestsellers_date": "2020-12-12",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 12,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326388",
+                    "primary_isbn13": "9780765326386",
+                    "rank": 12,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2020-12-20",
+                    "bestsellers_date": "2020-12-05",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326388",
+                    "primary_isbn13": "9780765326386",
+                    "rank": 12,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2020-12-20",
+                    "bestsellers_date": "2020-12-05",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326388",
+                    "primary_isbn13": "9780765326386",
+                    "rank": 8,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2020-12-13",
+                    "bestsellers_date": "2020-11-28",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 1,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326388",
+                    "primary_isbn13": "9780765326386",
+                    "rank": 8,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2020-12-13",
+                    "bestsellers_date": "2020-11-28",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 1,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781250759788",
+                    "rank": 2,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2020-12-13",
+                    "bestsellers_date": "2020-11-28",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765326388",
+                    "primary_isbn13": "9780765326386",
+                    "rank": 1,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2020-12-06",
+                    "bestsellers_date": "2020-11-21",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781429952040",
+                    "rank": 1,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2020-12-06",
+                    "bestsellers_date": "2020-11-21",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "SHADOWS OF SELF",
+            "description": "In a follow-up to “The Alloy of Law,” the Mistborn world is shaken by terrorism and assassination.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor/Tom Doherty",
+            "isbns": [
+                {
+                    "isbn10": "0765378558",
+                    "isbn13": "9780765378552"
+                },
+                {
+                    "isbn10": "1466862661",
+                    "isbn13": "9781466862661"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "SKYWARD",
+            "description": "Spensa puts her life on the line time and again to save the galaxy.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "isbns": [
+                {
+                    "isbn10": "0399555773",
+                    "isbn13": "9780399555770"
+                },
+                {
+                    "isbn10": "0399555811",
+                    "isbn13": "9780399555817"
+                },
+                {
+                    "isbn10": "0399555854",
+                    "isbn13": "9780399555855"
+                },
+                {
+                    "isbn10": "039955579X",
+                    "isbn13": "9780399555794"
+                },
+                {
+                    "isbn10": "0399555803",
+                    "isbn13": "9780399555800"
+                },
+                {
+                    "isbn10": "0399555846",
+                    "isbn13": "9780399555848"
+                },
+                {
+                    "isbn10": "0399555838",
+                    "isbn13": "9780399555831"
+                },
+                {
+                    "isbn10": "0399555862",
+                    "isbn13": "9780399555862"
+                },
+                {
+                    "isbn10": "0593567854",
+                    "isbn13": "9780593567852"
+                },
+                {
+                    "isbn10": "0593567862",
+                    "isbn13": "9780593567869"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0593567854",
+                    "primary_isbn13": "9780593567852",
+                    "rank": 8,
+                    "list_name": "Series Books",
+                    "display_name": "Children’s Series",
+                    "published_date": "2022-04-24",
+                    "bestsellers_date": "2022-04-09",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0399555854",
+                    "primary_isbn13": "9780399555855",
+                    "rank": 3,
+                    "list_name": "Series Books",
+                    "display_name": "Children’s Series",
+                    "published_date": "2021-12-12",
+                    "bestsellers_date": "2021-11-27",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "SKYWARD",
+            "description": "A young girl wants to become a fighter pilot, but will her father's reputation stand in the way?",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "isbns": [],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0399555773",
+                    "primary_isbn13": "9780399555770",
+                    "rank": 6,
+                    "list_name": "Young Adult Hardcover",
+                    "display_name": "Young Adult Hardcover",
+                    "published_date": "2019-01-06",
+                    "bestsellers_date": "2018-12-22",
+                    "weeks_on_list": 6,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0399555773",
+                    "primary_isbn13": "9780399555770",
+                    "rank": 5,
+                    "list_name": "Young Adult Hardcover",
+                    "display_name": "Young Adult Hardcover",
+                    "published_date": "2018-12-23",
+                    "bestsellers_date": "2018-12-08",
+                    "weeks_on_list": 5,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "STARSIGHT",
+            "description": "In this sequel to “Skyward,” Spensa slips into a Krell pilot training program disguised as an alien.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "isbns": [],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0399555811",
+                    "primary_isbn13": "9780399555817",
+                    "rank": 10,
+                    "list_name": "Young Adult Hardcover",
+                    "display_name": "Young Adult Hardcover",
+                    "published_date": "2019-12-22",
+                    "bestsellers_date": "2019-12-07",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 1,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0399555811",
+                    "primary_isbn13": "9780399555817",
+                    "rank": 1,
+                    "list_name": "Young Adult Hardcover",
+                    "display_name": "Young Adult Hardcover",
+                    "published_date": "2019-12-15",
+                    "bestsellers_date": "2019-11-30",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "STEELHEART",
+            "description": "A group of humans takes on superpowered villains.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Delacorte",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "THE ALLOY OF LAW",
+            "description": "In this follow-up to the Mistborn trilogy, a lawman adept at magic moves from the frontier to the even more dangerous city.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor/ Tom Doherty",
+            "isbns": [
+                {
+                    "isbn10": "0765330423",
+                    "isbn13": "9780765330420"
+                },
+                {
+                    "isbn10": "1429994894",
+                    "isbn13": "9781429994897"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "THE BANDS OF MOURNING",
+            "description": "A sequel to “Shadows of Self”; a Mistborn novel.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor/Tom Doherty",
+            "isbns": [
+                {
+                    "isbn10": "0765378574",
+                    "isbn13": "9780765378576"
+                },
+                {
+                    "isbn10": "146686267X",
+                    "isbn13": "9781466862678"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "THE FINAL EMPIRE",
+            "description": "The first book of the Mistborn series. 24 hours, 45 minutes unabridged. Read by Michael Kramer.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Macmillan Audio",
+            "isbns": [
+                {
+                    "isbn10": "1427206376",
+                    "isbn13": "9781427206374"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "THE GATHERING STORM",
+            "description": "Book 12 of the Wheel of Time fantasy series.",
+            "contributor": "by Robert Jordan and Brandon Sanderson",
+            "author": "Robert Jordan and Brandon Sanderson",
+            "contributor_note": "",
+            "price": "29.99",
+            "age_group": "",
+            "publisher": "Tor/Tom Doherty",
+            "isbns": [
+                {
+                    "isbn10": "0765341530",
+                    "isbn13": "9780765341532"
+                },
+                {
+                    "isbn10": "0765302306",
+                    "isbn13": "9780765302304"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "THE LOST METAL",
+            "description": "The seventh book in the Mistborn series. The fate of millions depends on a decision by the frontier lawman turned big-city senator Waxillium Ladrian.",
+            "contributor": "by Brandon Sanderson",
+            "author": "Brandon Sanderson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor",
+            "isbns": [
+                {
+                    "isbn10": "0765391198",
+                    "isbn13": "9780765391193"
+                },
+                {
+                    "isbn10": "0765391201",
+                    "isbn13": "9780765391209"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0765391198",
+                    "primary_isbn13": "9780765391193",
+                    "rank": 2,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2022-12-04",
+                    "bestsellers_date": "2022-11-19",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0765391198",
+                    "primary_isbn13": "9780765391193",
+                    "rank": 2,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2022-12-04",
+                    "bestsellers_date": "2022-11-19",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "THE RITHMATIST",
+            "description": "A boy longs to join a group of magical warriors. ",
+            "contributor": "by Brandon Sanderson. Illustrated by Ben McSweeney",
+            "author": "Brandon Sanderson",
+            "contributor_note": "Illustrated by Ben McSweeney",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Tor Teen",
+            "isbns": [
+                {
+                    "isbn10": "1429953160",
+                    "isbn13": "9781429953160"
+                },
+                {
+                    "isbn10": "0765320320",
+                    "isbn13": "9780765320322"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2013/05/12/books/review/the-rithmatist-by-brandon-sanderson.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}

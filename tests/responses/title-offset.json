@@ -1,0 +1,776 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 99,
+    "results": [
+        {
+            "title": "GRANDPA GREEN",
+            "description": "In a topiary garden, a boy narrates the story of his great-grandfather’s life.",
+            "contributor": "by Lane Smith",
+            "author": "Lane Smith",
+            "contributor_note": "",
+            "price": "16.99",
+            "age_group": "Ages 5 to 9",
+            "publisher": "Roaring Brook",
+            "isbns": [
+                {
+                    "isbn10": "1596436077",
+                    "isbn13": "9781596436077"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1596436077",
+                    "primary_isbn13": "9781596436077",
+                    "rank": 8,
+                    "list_name": "Picture Books",
+                    "display_name": "Children’s Picture Books",
+                    "published_date": "2012-05-06",
+                    "bestsellers_date": "2012-04-21",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1596436077",
+                    "primary_isbn13": "9781596436077",
+                    "rank": 9,
+                    "list_name": "Picture Books",
+                    "display_name": "Children’s Picture Books",
+                    "published_date": "2012-04-29",
+                    "bestsellers_date": "2012-04-14",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1596436077",
+                    "primary_isbn13": "9781596436077",
+                    "rank": 4,
+                    "list_name": "Picture Books",
+                    "display_name": "Children’s Picture Books",
+                    "published_date": "2012-02-19",
+                    "bestsellers_date": "2012-02-04",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1596436077",
+                    "primary_isbn13": "9781596436077",
+                    "rank": 8,
+                    "list_name": "Picture Books",
+                    "display_name": "Children’s Picture Books",
+                    "published_date": "2012-02-12",
+                    "bestsellers_date": "2012-01-28",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2011/08/21/books/review/picture-books-about-elephants-by-bruce-handy.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN",
+            "description": "",
+            "contributor": "by Ted Dekker",
+            "author": "Ted Dekker",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Thomas Nelson",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN",
+            "description": "A tribute to a single color, in all its many shades.",
+            "contributor": "by Laura Vaccaro Seeger",
+            "author": "Laura Vaccaro Seeger",
+            "contributor_note": "",
+            "price": "16.99",
+            "age_group": "Ages 2 to 6",
+            "publisher": "Neal Porter/Roaring Brook",
+            "isbns": [
+                {
+                    "isbn10": "1596433973",
+                    "isbn13": "9781596433977"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1596433973",
+                    "primary_isbn13": "9781596433977",
+                    "rank": 9,
+                    "list_name": "Picture Books",
+                    "display_name": "Children’s Picture Books",
+                    "published_date": "2013-04-14",
+                    "bestsellers_date": "2013-03-30",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Green Alaska: Dreams from the Far Coast",
+            "description": null,
+            "contributor": null,
+            "author": "Nancy Lord",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "1582430780",
+                    "isbn13": "9781582430782"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/08/15/books/books-in-brief-nonfiction-938580.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "GREEN ARROW, VOL. 4",
+            "description": "Oliver finds himself on the run after he loses his tech company and his personal wealth due to the machinations of a new villain.",
+            "contributor": "by Jeff Lemire and Andrea Sorrentino",
+            "author": "Jeff Lemire and Andrea Sorrentino",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401246907",
+                    "isbn13": "9781401246907"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401246907",
+                    "primary_isbn13": "9781401246907",
+                    "rank": 9,
+                    "list_name": "Paperback Graphic Books",
+                    "display_name": "Paperback Graphic Books",
+                    "published_date": "2014-04-27",
+                    "bestsellers_date": "2014-04-12",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401246907",
+                    "primary_isbn13": "9781401246907",
+                    "rank": 7,
+                    "list_name": "Paperback Graphic Books",
+                    "display_name": "Paperback Graphic Books",
+                    "published_date": "2014-04-13",
+                    "bestsellers_date": "2014-03-29",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN GOES WITH EVERYTHING",
+            "description": "Steps to a healthier life and a cleaner planet.",
+            "contributor": "by Sloan Barnett",
+            "author": "Sloan Barnett",
+            "contributor_note": "",
+            "price": "19.95",
+            "age_group": "",
+            "publisher": "Atria",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Green Grass Grace: A Novel",
+            "description": null,
+            "contributor": null,
+            "author": "Shawn McBride",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "074322311X",
+                    "isbn13": "9780743223119"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/02/23/books/books-in-brief-fiction-poetry-341681.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN CORPS, VOL. 1",
+            "description": "It may be the \"New 52,\" but the Green Lantern Corps has the same old mission: protect the universe.",
+            "contributor": "by Peter J. Tomasi and others",
+            "author": "Peter J Tomasi and others",
+            "contributor_note": "",
+            "price": "22.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401237010",
+                    "isbn13": "9781401237011"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401237010",
+                    "primary_isbn13": "9781401237011",
+                    "rank": 1,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2012-10-14",
+                    "bestsellers_date": "2012-09-29",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN CORPS: EMERALD ECLIPSE",
+            "description": "The \"War of Light\" intensifies as the alien despot Mongul makes a grab for control of the yellow power ring users.",
+            "contributor": "by Peter J. Tomasi and Patrick Gleason",
+            "author": "Peter J Tomasi and Patrick Gleason",
+            "contributor_note": "",
+            "price": "24.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN CORPS: REVOLT OF THE ALPHA LANTERNS",
+            "description": "Find out what happens when the Alpha Lanterns, the elite of the Green Lantern Corps, turn against their own.",
+            "contributor": "by Tony Bedard and others",
+            "author": "Tony Bedard and others",
+            "contributor_note": "",
+            "price": "22.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "140123139X",
+                    "isbn13": "9781401231392"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN CORPS: THE WEAPONER",
+            "description": "Battling the Sinestro Corps is bad enough, but now the Green Lanterns must also confront the Weaponers of Qward.",
+            "contributor": "by Tony Bedard and Tyler Kirkham",
+            "author": "Tony Bedard and Tyler Kirkham",
+            "contributor_note": "",
+            "price": "22.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401232817",
+                    "isbn13": "9781401232818"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN, VOL. 3",
+            "description": "The author’s epic nine-year run on \"Green Lantern\" comes to a conclusion with this volume.",
+            "contributor": "by Geoff Johns and others",
+            "author": "Geoff Johns and others",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401244084",
+                    "isbn13": "9781401244088"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401244084",
+                    "primary_isbn13": "9781401244088",
+                    "rank": 4,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-11-24",
+                    "bestsellers_date": "2013-11-09",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401244084",
+                    "primary_isbn13": "9781401244088",
+                    "rank": 8,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-11-17",
+                    "bestsellers_date": "2013-11-02",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN: AGENT ORANGE",
+            "description": "This compelling chapter of the \"War of Light\" saga introduces Agent Orange, who wields the orange light of avarice.",
+            "contributor": "by Geoff Johns and Philip Tan",
+            "author": "Geoff Johns and Philip Tan",
+            "contributor_note": "",
+            "price": "19.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401224210",
+                    "isbn13": "9781401224219"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN: EMERALD WARRIORS, VOL. 1",
+            "description": "The Green Lantern Corps protects the galaxy from evil. So why is Green Lantern Guy Gardner working with Atrocitus, the leader of the Red Lanterns, whose heart knows only rage?",
+            "contributor": "by Peter J. Tomasi and Fernando Pasarin",
+            "author": "Peter J Tomasi and Fernando Pasarin",
+            "contributor_note": "",
+            "price": "22.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401230792",
+                    "isbn13": "9781401230791"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN: NEW GUARDIANS, VOL. 1",
+            "description": "Kyle Rayner is a Green Lantern, but what happens when other rings of power seek him out?",
+            "contributor": "by Tony Bedard and Tyler Kirkham",
+            "author": "Tony Bedard and Tyler Kirkham",
+            "contributor_note": "",
+            "price": "22.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "140123707X",
+                    "isbn13": "9781401237073"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "140123707X",
+                    "primary_isbn13": "9781401237073",
+                    "rank": 6,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2012-11-18",
+                    "bestsellers_date": "2012-11-03",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "140123707X",
+                    "primary_isbn13": "9781401237073",
+                    "rank": 4,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2012-11-11",
+                    "bestsellers_date": "2012-10-27",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN: NEW GUARDIANS, VOL. 2",
+            "description": "The New Guardians must defend Odym, the homeworld of the Blue Lantern Corps, which is under attack by a group of aliens called, The Reach.",
+            "contributor": "by Tony Bedard and Tyler Kirkham",
+            "author": "Tony Bedard and Tyler Kirkham",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401240771",
+                    "isbn13": "9781401240776"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401240771",
+                    "primary_isbn13": "9781401240776",
+                    "rank": 7,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-09-08",
+                    "bestsellers_date": "2013-08-24",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN: RAGE OF THE RED LANTERNS",
+            "description": "The march toward the \"Blackest Night\" event continues to build in this story that introduces the hopeful Blue Lanterns, the rage-filled Red Lanterns and more.",
+            "contributor": "by Geoff Johns, Shane Davis and others",
+            "author": "Geoff Johns, Shane Davis and others",
+            "contributor_note": "",
+            "price": "24.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN: REVENGE OF THE BLACK HAND",
+            "description": "Green Lantern and Sinestro, his former enemy, are uneasy allies as they travel to the planet of the Indigo Tribe.",
+            "contributor": "by Geoff Johns and Doug Mahnke",
+            "author": "Geoff Johns and Doug Mahnke",
+            "contributor_note": "",
+            "price": "24.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401237665",
+                    "isbn13": "9781401237660"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401237665",
+                    "primary_isbn13": "9781401237660",
+                    "rank": 6,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-03-10",
+                    "bestsellers_date": "2013-02-23",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401237665",
+                    "primary_isbn13": "9781401237660",
+                    "rank": 4,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-02-10",
+                    "bestsellers_date": "2013-01-26",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401237665",
+                    "primary_isbn13": "9781401237660",
+                    "rank": 6,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-02-03",
+                    "bestsellers_date": "2013-01-19",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401237665",
+                    "primary_isbn13": "9781401237660",
+                    "rank": 2,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-01-27",
+                    "bestsellers_date": "2013-01-12",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN: RISE OF THE THIRD ARMY",
+            "description": "Hal Jordan and Sinestro have disappeared, so it is up to the new Green Lantern, Simon Baz, to stop the Third Army.",
+            "contributor": "by Geoff Johns and various",
+            "author": "Geoff Johns and various",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401244998",
+                    "isbn13": "9781401244996"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401244084",
+                    "primary_isbn13": "9781401244088",
+                    "rank": 2,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-11-10",
+                    "bestsellers_date": "2013-10-26",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401244998",
+                    "primary_isbn13": "9781401244996",
+                    "rank": 3,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-10-13",
+                    "bestsellers_date": "2013-09-28",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401244998",
+                    "primary_isbn13": "9781401244996",
+                    "rank": 6,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-10-06",
+                    "bestsellers_date": "2013-09-21",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "GREEN LANTERN: SECRET ORIGIN",
+            "description": "This retelling of how Hal Jordan, test pilot, became Green Lantern, space hero, includes an introduction by Ryan Reynolds, who plays the character on the big screen this year.",
+            "contributor": "by Geoff Johns and Ivan Reis",
+            "author": "Geoff Johns and Ivan Reis",
+            "contributor_note": "",
+            "price": "19.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401230857",
+                    "isbn13": "9781401230852"
+                },
+                {
+                    "isbn10": "1401230865",
+                    "isbn13": "9781401230869"
+                },
+                {
+                    "isbn10": "1401224202",
+                    "isbn13": "9781401224202"
+                },
+                {
+                    "isbn10": "1401231810",
+                    "isbn13": "9781401231811"
+                },
+                {
+                    "isbn10": "140121990X",
+                    "isbn13": "9781401219901"
+                },
+                {
+                    "isbn10": "1401223265",
+                    "isbn13": "9781401223267"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}
